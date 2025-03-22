@@ -1,6 +1,6 @@
 pragma solidity ^0.5.16;
 
-// Inheritancea
+// Inheritancea/
 interface IStakingMultiRewards {
     // Views
     function lastTimeRewardApplicable() external view returns (uint256);
